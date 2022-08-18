@@ -11,9 +11,11 @@ ModLoader.SetupFileHook("lua/GUIFeedback.lua", "lua/RBM/GUI/GUIFeedback.lua", "p
 
 -- Teams
 ModLoader.SetupFileHook("lua/AlienTeam.lua", "lua/RBM/Teams/AlienTeam.lua", "post")
+ModLoader.SetupFileHook("lua/MarineTeam.lua", "lua/RBM/Teams/MarineTeam.lua", "post")
 
 -- Tech
 ModLoader.SetupFileHook("lua/AlienTechMap.lua", "lua/RBM/Tech/AlienTechMap.lua", "post")
+ModLoader.SetupFileHook("lua/MarineTechMap.lua", "lua/RBM/Tech/MarineTechMap.lua", "post")
 
 -- Weapons
 ModLoader.SetupFileHook("lua/Weapons/Marine/Shotgun.lua", "lua/RBM/Weapons/Marine/Shotgun.lua", "post")
