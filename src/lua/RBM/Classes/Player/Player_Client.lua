@@ -1,7 +1,7 @@
 local kRBMRevisionKey = "RBM_revision"
 local kChangeLogTitle = "Ranger's Balance Mod"
-local kChangeLogURL = "https://adsfgg.github.io/RBM/changelog"
-local kChangeLogDetailURL = string.format("https://adsfgg.github.io/RBM/revisions/revision%s.html", g_rbm_revision)
+local kChangeLogURL = "https://adsfgg.github.io/RangersBalanceMod/changelog"
+local kChangeLogDetailURL = string.format("https://adsfgg.github.io/RangersBalanceMod/revisions/revision%s.html", g_rbm_revision)
 
 local function showChangeLog(withDetail)
     withDetail = withDetail or false
