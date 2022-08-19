@@ -1,13 +1,13 @@
 name        = "Ranger's Balance Mod"
 source_dir  = "source"
 output_dir  = "output"
-description = [=[Ranger's Balance Mod
+description = [=[[h1]Ranger's Balance Mod revision %%current_revision%%[/h1]
 
 A balance testing mod to implement RangeR's balance ideas.
 
-Current revision %%current_revision%%
+View the most recent changelog [url=adsfgg.github.io/RangersBalanceMod/changelog]here[/url]
 
-View the most recent changelog here: [url=%%changelog_link%%]here[/url]
+View the source [url=github.com/adsfgg/RangersBalanceMod]here[/url]
 
 ]=]
 image       = "preview.jpg"

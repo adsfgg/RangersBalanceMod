@@ -4,7 +4,6 @@ buildDir="build"
 launchPadDataDir="launchpad"
 srcDir="src"
 changelodPath="docs/changelog.md"
-changelogLink="adsfgg.github.io\/RangersBalanceMod\/changelog"
 licenseFile="LICENSE"
 readMeFile="README.md"
 
@@ -24,4 +23,3 @@ cp $licenseFile $buildDir/output/
 cp $readMeFile $buildDir/output/
 
 sed -i "s/\%\%current_revision\%\%/$current_revision/g" $buildDir/mod.settings
-sed -i "s/\%\%changelog_link\%\%/$changelogLink/g" $buildDir/mod.settings
