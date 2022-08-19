@@ -1,4 +1,4 @@
-# Changes between Ranger's Balance Mod [revision 1](revisions/revision1.md) and Vanilla Build 342
+# Changes between Ranger's Balance Mod [revision 2](revisions/revision2.md) and Vanilla Build 342
 <br/>
 
 # Alien
@@ -25,6 +25,8 @@
 
 ## Weapons
 * ### Shotgun
+  * Cost
+    * Increased cost to 25 pres from 20 pres
   * Damage
     * Increase Shotgun damage per weapon upgrade to ~13.33 from ~10
   * Falloff

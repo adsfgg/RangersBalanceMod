@@ -6,7 +6,9 @@
 Revision 1
 </div>
 <div style="display:inline-block;float:right;padding-right:20%">
+<a href="revision2">
 [ Next -> ]
+</a>
 </div>
 </div>
 

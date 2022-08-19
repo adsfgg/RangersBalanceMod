@@ -1,4 +1,4 @@
-g_rbm_revision = 1
+g_rbm_revision = 2
 
 -- Player Classes
 ModLoader.SetupFileHook("lua/Player_Client.lua", "lua/RBM/Classes/Player/Player_Client.lua", "post")
