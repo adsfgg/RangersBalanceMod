@@ -2,8 +2,10 @@
 kLerkHealth = 200 -- 180
 kFadeHealth = 300 -- 250
 
--- Weapons
+-- Abilities
+kStompDamage = 0 -- 40
 
+-- Weapons
 kShotgunCost = 25 -- 20
 
 -- Increase damage per upgrade to ~13.33 from ~10
