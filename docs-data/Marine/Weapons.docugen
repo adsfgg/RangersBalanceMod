@@ -1,9 +1,0 @@
-#Marine.Weapons.Shotgun
-Cost
->Increased cost to 25 pres from 20 pres
-Damage
->Increase Shotgun damage per weapon upgrade to ~13.33 from ~10
-Falloff
->Falloff start distance increased to 10m from 5m
->Falloff end distance increased to 20m from 15m
->>This will result in Shotguns doing more damage at range
